@@ -1,0 +1,24 @@
+body {
+    margin: 10px;
+    width: 98%;
+    height: 95vh;
+}
+canvas {
+    background-color: chartreuse;
+    width: 80%;
+    height: 95vh;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+.conteiner {
+    display: flex;
+    flex-direction: row;
+    border-radius: 25px;
+}
+.elementos {
+    background-color: darkgreen;
+    width: 20%;
+    height: 95vh;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
