@@ -1,0 +1,19 @@
+{
+  "name": "magic_board",
+  "version": "1.0.0",
+  "description": "Pizarra para dibujar en el navegador.",
+  "main": "magic_board.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DIEGODAR/Magic_board.git"
+  },
+  "author": "Diego Almirón",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DIEGODAR/Magic_board/issues"
+  },
+  "homepage": "https://github.com/DIEGODAR/Magic_board#readme"
+}
